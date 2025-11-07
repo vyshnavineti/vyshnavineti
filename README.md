@@ -22,50 +22,47 @@
 
 ---
 ### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 <p align="left">
-<a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://isocpp.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
-</a> 
-
-<a href="https://numpy.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-</a> 
-
-<a href="https://pandas.pydata.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-
-<a href="https://pytorch.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> 
-
-<a href="https://opencv.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/AI" target="_blank"> 
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ai-robotics-flaticons-flat-flat-icons.png" alt="ai" width="40" height="40"/> 
-</a> 
-
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-machine-learning-artificial-intelligence-flatart-icons-outline-flatarticons.png" alt="machine-learning" width="40" height="40"/> 
-</a> 
-
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"> 
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-deep-learning-artificial-intelligence-flaticons-flat-flat-icons.png" alt="deep-learning" width="40" height="40"/> 
-</a> 
-
-<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank"> 
-  <img src="https://img.icons8.com/external-outline-geotatah/64/000000/external-genai-artificial-intelligence-outline-geotatah.png" alt="genai" width="40" height="40"/> 
-</a> 
-
-<a href="https://cplusplus.com/doc/tutorial/" target="_blank"> 
-  <img src="https://img.icons8.com/color/48/000000/code-file.png" alt="dsa-cpp" width="40" height="40"/> 
-</a> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/artificial-intelligence-flatarticons-outline-flatarticons.png" alt="AI" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/machine-learning-flatarticons-outline-flatarticons.png" alt="Machine Learning" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/deep-learning-flatarticons-outline-flatarticons.png" alt="Deep Learning" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
+    <img src="https://img.icons8.com/external-outline-geotatah/64/000000/generative-ai-outline-geotatah.png" alt="GenAI" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/data-structure.png" alt="DSA (C++)" width="40" height="40"/>
+  </a>
 </p>
 
 ---
