@@ -22,7 +22,6 @@
 
 ---
 ### 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -37,31 +36,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://opencv.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/artificial-intelligence-flatarticons-outline-flatarticons.png" alt="AI" width="40" height="40"/>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/machine-learning-flatarticons-outline-flatarticons.png" alt="Machine Learning" width="40" height="40"/>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Machine Learning" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/deep-learning-flatarticons-outline-flatarticons.png" alt="Deep Learning" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">
-    <img src="https://img.icons8.com/external-outline-geotatah/64/000000/generative-ai-outline-geotatah.png" alt="GenAI" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/data-structure.png" alt="DSA (C++)" width="40" height="40"/>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="DSA (C++)" width="40" height="40"/>
   </a>
 </p>
 
